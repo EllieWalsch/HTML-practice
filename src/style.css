@@ -7,6 +7,7 @@ body {
 
 nav {
   background-color: #333;
+  border-bottom: 1px solid #000;
   color: #fff;
   padding: 10px;
 }
@@ -24,6 +25,23 @@ li {
 a {
   color: #fff;
   text-decoration: none;
+}
+
+figure {
+  margin: 0 auto;
+  width: 300px;
+
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+form,
+figure {
+  margin: 0 auto;
+  width: 300px
 }
 
 
