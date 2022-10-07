@@ -1,7 +1,7 @@
 body {
   background-color: #f0f0f0;
   color: #333;
-  font-family: "He;vetica Neue", Arial, Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   font-size: 14px;
 }
 
@@ -11,20 +11,21 @@ nav {
   padding: 10px;
 }
 
+ul {
+  text-align: right;
+}
+
 li {
-  display: inline-block;
+  display: inline;
   list-style-type: none;
-  margin: 0;
+  margin: 10;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
 }
 
 
 
-.list{
-  display: flex;
-  justify-content: flex-end;
-  list-style-type: none;
 
-}
-
-ul.list > li {
-  margin: 1em;}
