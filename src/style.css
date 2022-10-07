@@ -1,0 +1,30 @@
+body {
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: "He;vetica Neue", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+}
+
+
+
+.list{
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+
+}
+
+ul.list > li {
+  margin: 1em;}
