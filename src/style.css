@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-  background-color:rgb(29 135 211);
+  background-color: rgb(29 135 211);
   border-bottom: 1px solid #000;
   color: #fff;
   padding: 10px;
@@ -43,7 +43,7 @@ figcaption {
 form,
 figure {
   margin: 0 auto;
-  width: 300px
+  width: 300px;
 }
 
 div {
@@ -75,8 +75,4 @@ footer {
 section {
   background-color: rgb(222 173 224);
   padding: 30px 10px;
-
 }
-
-
-
